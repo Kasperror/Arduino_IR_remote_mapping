@@ -31,7 +31,7 @@ INSTRUCTIONS:
 if not check your wiring
 6. Clear Serial output window [close and open it]
 	!!! If you downloaded whole Remote_mapping folder skip to step 9 !!!
-7. Now compile mapping program and put EXE file into new folder
+7. Now compile mapping program and put EXE file into new folder[this might need -std=c++11 flag]
 8. In the same folder create "codes.txt" text file
 9. Start the EXE program
 10. Continue with command line instructions
